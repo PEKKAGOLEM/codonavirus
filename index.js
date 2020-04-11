@@ -4,7 +4,7 @@ const moment = require('moment-timezone')
 
 const getJSON = bent('json')
 const client = new Discord.Client()
-const token = 'Njc1MjMzNzU3Nzk5NjQ1MTg2.XkwFbw.CQxPzxe0cVf2_03xSzepS9LMNRw'
+const token = 'INSERT TOKEN HERE'
 const url = 'https://codeforces.com/api/contest.list'
 
 var channel
